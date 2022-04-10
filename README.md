@@ -113,8 +113,8 @@
 
 
 
-<!--   <a href="mailto:raj.academic8@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
-  <a href="mailto:raj.academic8@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
+<!--   <a href="mailto: raj.academic8@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
+  <a href="mailto: raj.academic8@gmail.com"><img width="40" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg"/></a> -->
   
 </div>
 
