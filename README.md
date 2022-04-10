@@ -55,8 +55,8 @@
 
 <!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
 <!--  <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
-<!--  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>
-</div>  -->
+<!--  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>  -->
+</div> 
 
 
 ## 🌟: Tech Projects
