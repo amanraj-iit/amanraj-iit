@@ -14,7 +14,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right"><img src="https://komarev.com/ghpvc/?username=amanraj-iit&color=0e75b6&label=Profile+Views&style=flat"/></p>
 
 ## <p align="center"> **Hello Folks!, This is** [**Aman Raj**](https://amanrajiit.github.io/) :wave: </p>
 <div>
@@ -30,8 +29,15 @@
 - 😄 Pronouns: He/Him    <br />
 - ⚡ Fun fact:    <br />
 </p>
-<h2 align="center"> :star2: TechStacks, I'm familiar with! </h2>
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-iit&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
+<a href="https://github.com/amanraj-iit?tab=followers"><img src="https://img.shields.io/github/followers/amanraj-iit?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
+
+<h2 align="center"> <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
+
+</h2>
+<div align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a> 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png"/></a>
@@ -59,21 +65,24 @@
 </div> 
 
 
-## 🌟: Tech Projects
+  
+## <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
+  
 - [**My Chef**](https://devfolio.co/submissions/) 
 - [**commingsoon....**](https://github.com/)
 - [**commingsoon....**](https://github.com/amanraj-iit/Line-Follower)
 - [**commingsoon....**](https://github.com/amanraj-iit/Path-Planning-Robot) 
     
     
-## 🌟 Personal Projects
+  
+## <h3><i>My Personal Projects<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 - [**commingsoon....**](https://amanraj-iit.github.io/Image-Editor-Project/)
 - [**commingsoon....**](https://amanraj-iit.github.io/calculator/)
 - [**commingsoon....**](https://amanraj-iit.github.io/tools/)
 - [**commingsoon....**](https://amanraj-iit.github.io/Team-Kalpana-/)
   
     
-## :star2: Repositories
+## <h3><i>My Repositories <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 - [**commingsoon....**](https://github.com/amanraj-iit/Image-Editor-Project)
 - [**commingsoon....**](https://github.com/amanraj-iit/Codeforces-Problem-Solutions)
 - [**commingsoon....**](https://github.com/amanraj-iit/Personal-Projects)
@@ -81,8 +90,9 @@
 - [**commingsoon....**](https://github.com/amanraj-iit/amanraj-iit)
 
     
-<h2 align="center"> :star2: Connect/Contact Me at </h2>
+<h3><i>Let's Connect !!<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
 <div align="center">
+  
   <a href="http://www.twitter.com/commingsoon...."><img width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"/></a>
   <a href="mailto:raj.academic8@gmail.com"><img width="40" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>
   <a href="https://www.linkedin.com/in/commingsoon..../"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/150px-LinkedIn_icon.svg.png"/></a>
@@ -118,13 +128,15 @@
   
 </div>
 
-<!-- ## :star2: Connect/Contact With Me At
+<!-- ## <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
 - Coding Profiles : 
   - [**Codeforces**](https://codeforces.com/profile/*****)
   - [**Codechef**](https://www.codechef.com/users/*****)
   - [**At-Coder**](https://atcoder.jp/users/*****)
 - [**Linkedin**](https://www.linkedin.com/in/aman-raj-5a348518a/) -->
-<h2 align="center"> :star2: Github Stats </h2> 
+  
+  
+<h3><i>GitHub's Stats <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3> 
 <ul align="center">
   
   <table>
