@@ -1,21 +1,8 @@
 ###  Hi there 👋 
 
-<!--
-**amanraj-iit/amanraj-iit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-/*Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## <p align="center"> **Hello Folks!, This is** [**Aman Raj**](https://amanrajiit.github.io/) :wave: </p>
+
 <div>
 <p align="center"> I'm Aman Raj, currently a 2nd year B.Tech Student. </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=25&center=true&vCenter=true&width=850&height=30&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills."/></p>
@@ -23,6 +10,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="400" />
 <p align="left">
+
 - 🔭 I’m currently working on Web Development <br />    
 - 🌱 I’m currently learning Frontend     <br />
 - 👯 I’m looking to collaborate on Hackathons    <br />
@@ -31,14 +19,16 @@
 - 😄 Pronouns: He/Him    <br />
 - ⚡ Fun fact:    <br />
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanraj-iit&label=Profile%20views&color=0e75b6&style=flat" alt="vishal062" />
 <a href="https://github.com/amanraj-iit?tab=followers"><img src="https://img.shields.io/github/followers/amanraj-iit?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
 
 <h2 align="center"> <h3><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h3>
-
 </h2>
+
+
 <div align="left">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img width="47" src="https://cdn.iconscout.com/icon/free/png-256/c-57-1175191.png"/></a> 
   <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png"/></a>
@@ -65,6 +55,7 @@
 <!--  <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
 <!--  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>  -->
 </div> 
+
 
 
   
