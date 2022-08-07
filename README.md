@@ -63,15 +63,15 @@
 ## <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
   
 - [**My Chef**](https://devfolio.co/submissions/) 
-- [**commingsoon....**](https://github.com/)
-- [**commingsoon....**](https://github.com/amanraj-iit/Line-Follower)
-- [**commingsoon....**](https://github.com/amanraj-iit/Path-Planning-Robot) 
+- [**Simple-ToDo**](https://devfolio.co/submissions/)
+- [**MyDoc**](https://devfolio.co/submissions/)
+- [**MyCollegebuddy**](https://devfolio.co/submissions/) 
     
     
   
 ## <h3><i>My Personal Projects<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-- [**commingsoon....**](https://amanraj-iit.github.io/Image-Editor-Project/)
-- [**commingsoon....**](https://amanraj-iit.github.io/calculator/)
+- [**Meetify App**](https://amanraj-iit.github.io/Image-Editor-Project/)
+- [**Hand Recognisation using Python**](https://amanraj-iit.github.io/calculator/)
 - [**commingsoon....**](https://amanraj-iit.github.io/tools/)
 - [**commingsoon....**](https://amanraj-iit.github.io/Team-Kalpana-/)
   
