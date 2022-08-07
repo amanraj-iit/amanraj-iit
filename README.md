@@ -4,7 +4,7 @@
 ## <p align="center"> **Hello Folks!, This is** [**Aman Raj**](https://amanrajiit.github.io/) :wave: </p>
 
 <div>
-<p align="center"> I'm Aman Raj, currently a 2nd year B.Tech Student. </p>
+<p align="center"> I'm Aman Raj, currently a 2nd year B.Tech Computer Science Student. </p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2350CA10&size=25&center=true&vCenter=true&width=850&height=30&lines=An+enthusiast+frontend+web+developer.;A+competitive+programmer+(coder).+;Enthusiast+to+learn+new+skills.;A+quick+learner+to+develop+new+skills."/></p>
 </div>
 
