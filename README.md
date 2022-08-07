@@ -11,12 +11,13 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="510" height="400" />
 <p align="left">
 
-- 🔭 I’m currently working on Web Development <br />    
-- 🌱 I’m currently learning Frontend     <br />
-- 👯 I’m looking to collaborate on Hackathons    <br />
-- 💬 Ask me about Open Source       <br />
+- 🔭 I’m currently working on `Web Development` <br />    
+- 🌱 I’m currently learning `Frontend`     <br />
+- 🤔 I’m looking for help with `Competitive Programming`    <br />
+- 💬 Ask me about `Open Source`       <br />
 - 📫 How to reach me: <a href="mailto:raj.academic8@gmail.com"><img width="20" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/></a>   <br />
 - 😄 Pronouns: He/Him    <br />
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 - ⚡ Fun fact:    <br />
 </p>
 
@@ -134,14 +135,14 @@
   
   <table>
     <tr>
-      <th colspan="2"  style="overflow:hidden;"><img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-iit&show_icons=true&theme=radical&hide_border=true" alt="My Commit Stats" />
+      <th colspan="2"  style="overflow:hidden;"><img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-iit&show_icons=true" alt="amanraj-iit"&hide_border=true" alt="My Commit Stats" />
       </th>
     </tr>
 <tr>
   <th  style="overflow:hidden;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj-iit&show_icons=true&theme=radical&hide_border=true" alt="My Github Stats"/></th>
+  <img src="https://github-readme-stats.vercel.app/api?username=amanraj-iit&show_icons=true&hide_border=true" alt="My Github Stats"/></th>
   <th  style="overflow:hidden;">
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj-iit&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="My Language Usage History"/></p></th>
+    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj-iit&show_icons=true&hide_border=true&layout=compact" alt="My Language Usage History"/></p></th>
 </tr>
    <tr>
      <th colspan="2" style="overflow:hidden;">
