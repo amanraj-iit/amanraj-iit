@@ -75,13 +75,6 @@
 - [**Meetify App**](https://amanraj-iit.github.io/tools/)
 - [**Simple Ecommerce**](https://amanraj-iit.github.io/Team-Kalpana-/)
   
-    
-## <h3><i>My Repositories <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-- [**commingsoon....**](https://github.com/amanraj-iit/Image-Editor-Project)
-- [**commingsoon....**](https://github.com/amanraj-iit/Codeforces-Problem-Solutions)
-- [**commingsoon....**](https://github.com/amanraj-iit/Personal-Projects)
-- [**commingsoon....**](https://github.com/amanraj-iit/amanraj-iit.github.io)
-- [**commingsoon....**](https://github.com/amanraj-iit/amanraj-iit)
 
     
 <h3><i>Let's Connect !!<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
