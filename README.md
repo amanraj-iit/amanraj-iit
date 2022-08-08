@@ -63,17 +63,17 @@
 ## <h3><i>Interested on my top projects? <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
   
 - [**My Chef**](https://devfolio.co/submissions/) 
-- [**Simple-ToDo**](https://devfolio.co/submissions/)
+- [**Portfolio**](https://devfolio.co/submissions/)
 - [**MyDoc**](https://devfolio.co/submissions/)
 - [**MyCollegebuddy**](https://devfolio.co/submissions/) 
     
     
   
 ## <h3><i>My Personal Projects<img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
-- [**Meetify App**](https://amanraj-iit.github.io/Image-Editor-Project/)
+- [**Simple ToDo**](https://amanraj-iit.github.io/Image-Editor-Project/)
 - [**Hand Recognisation using Python**](https://amanraj-iit.github.io/calculator/)
-- [**commingsoon....**](https://amanraj-iit.github.io/tools/)
-- [**commingsoon....**](https://amanraj-iit.github.io/Team-Kalpana-/)
+- [**Meetify App**](https://amanraj-iit.github.io/tools/)
+- [**Simple Ecommerce**](https://amanraj-iit.github.io/Team-Kalpana-/)
   
     
 ## <h3><i>My Repositories <img src="https://media2.giphy.com/media/dqOQq1ToYzf8fWODSb/giphy.gif" width="50" /></i></h3>
