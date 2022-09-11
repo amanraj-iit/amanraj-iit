@@ -127,16 +127,19 @@
 <ul align="center">
   
   <table>
+  <th colspan="2" style="overflow:hidden;">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=amanraj-iit&show_icons=true&hide_border=true" alt="My Github Stats"/></th>
     <tr>
-      <th colspan="2"  style="overflow:hidden;"><img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-iit&show_icons=true" alt="amanraj-iit"&hide_border=true" alt="My Commit Stats" />
-      </th>
-    </tr>
+ <!--     <th colspan="2"  style="overflow:hidden;"><img align="center" width=70% src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-iit&show_icons=true" alt="amanraj-iit"&hide_border=true" alt="My Commit Stats" />
+      </th> -->
+    </tr> 
 <tr>
-  <th  style="overflow:hidden;">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanraj-iit&show_icons=true&hide_border=true" alt="My Github Stats"/></th>
-  <th  style="overflow:hidden;">
+   <th  style="overflow:hidden;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanraj-iit&show_icons=true" alt="amanraj-iit"&hide_border=true" alt="My Commit Stats"/></th> 
+  
+  <th  style="overflow:hidden;"> 
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanraj-iit&show_icons=true&hide_border=true&layout=compact" alt="My Language Usage History"/></p></th>
-</tr>
+</tr> 
    <tr>
      <th colspan="2" style="overflow:hidden;">
        <img width=85% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraj-iit&theme=monokai"/>
