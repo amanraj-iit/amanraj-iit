@@ -52,8 +52,7 @@
     <a href="https://cloud.google.com/"><img width="40" src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667"/></a>
   <a href="https://en.wikipedia.org/wiki/Arduino_Uno"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ArduinoLogo_%C2%AE.svg/2560px-ArduinoLogo_%C2%AE.svg.png"/></a> 
 
-<!--   <img width="45" src="https://webuilddatabases.com/wp-content/uploads/2015/03/mysql-icon-250x314.png"/> -->
-<!--  <a href="https://www.djangoproject.com/"><img width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"/></a> -->
+
 <!--  <a href="https://en.wikipedia.org/wiki/Webots"><img width="100" src="https://www.downloadclipart.net/large/transparent-ladybug-file-png.png"/></a>  -->
 </div> 
 
