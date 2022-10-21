@@ -118,7 +118,7 @@
 - Coding Profiles : 
   - [**Codeforces**](https://codeforces.com/profile/*****)
   - [**Codechef**](https://www.codechef.com/users/*****)
-  - [**At-Coder**](https://atcoder.jp/users/*****)
+  - [**At-Coder**](https://atcoder.jp/users/****)
 - [**Linkedin**](https://www.linkedin.com/in/aman-raj-5a348518a/) -->
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
